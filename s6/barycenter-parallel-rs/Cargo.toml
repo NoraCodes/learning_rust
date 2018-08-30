@@ -1,0 +1,8 @@
+[package]
+name = "barycenter-rs"
+version = "0.1.0"
+authors = ["LeoTindall <lfstindall@gmail.com>"]
+
+[dependencies]
+itertools = "0.7"
+rayon = "1"

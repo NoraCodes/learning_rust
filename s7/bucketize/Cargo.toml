@@ -1,0 +1,6 @@
+[package]
+name = "bucketize"
+version = "0.1.0"
+authors = ["LeoTindall <lfstindall@gmail.com>"]
+
+[dependencies]
